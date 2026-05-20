@@ -1,7 +1,7 @@
 <h1 align="center">Kumar Gaurav</h1>
 
 <p align="center">
-  Full-Stack Developer • B.Tech CSE @ GEC Ramgarh • Robotics Enthusiast
+  Full-Stack Developer • B.Tech CSE @ REC Ramgarh • Robotics Enthusiast
 </p>
 
 <p align="center">

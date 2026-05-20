@@ -1,71 +1,84 @@
-<h1 align="center">Hey, I'm Kumar Gaurav👋</h1>
+<h1 align="center">Kumar Gaurav</h1>
 
 <p align="center">
-  B.Tech CSE @ GEC Ramgarh &middot; Full-Stack Dev &middot; Robotics
+  Full-Stack Developer • B.Tech CSE @ GEC Ramgarh • Robotics Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00878A?logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" />
+  Building scalable web products and experimenting with embedded systems.
 </p>
 
 ---
 
-### ⚡ Featured project
+### ⚙️ Stack
 
-> **[SplitEasy](https://spliteasy.info)** — Production-grade bill-splitting app for the Indian market with UPI-native payments.
->
-> `Next.js 14` `TypeScript` `PostgreSQL` `Prisma ORM` `NextAuth.js v5` `Supabase` `Railway`
->
-> 🔗 **[spliteasy.info](https://spliteasy.info)**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,prisma,tailwind,linux,git,github,vercel" />
+</p>
 
 ---
 
-### 🚀 About me
+## 🚀 Featured Project
 
-- 🎓 1st year B.Tech CSE at **GEC Ramgarh**, affiliated with JUT
-- 🔨 Building production-grade web apps with **Next.js 14 + TypeScript + PostgreSQL**
-- 🤖 Hobbyist robotics builder — Arduino, BLE, Li-ion battery packs
-- 🎧 Audiophile | 🏸 Badminton | 💪 Fitness | 📈 Investing
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/k-kumargaurav)
+### SplitEasy
+
+Production-grade bill splitting platform built for the Indian market with UPI-native workflows and modern infrastructure.
+
+**Core Stack**
+`Next.js 14` • `TypeScript` • `PostgreSQL` • `Prisma ORM` • `NextAuth.js v5` • `Supabase` • `Railway`
+
+<p>
+  <a href="https://spliteasy.info">
+    <img src="https://img.shields.io/badge/Live-SplitEasy-00C896?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Tech stack
+## 🧠 About
 
-| Layer | Tools |
+- B.Tech CSE student at **GEC Ramgarh**
+- Building full-stack production-grade applications
+- Interested in scalable systems, startups, and deeptech
+- Robotics hobbyist working with Arduino + BLE systems
+- Exploring product engineering, infrastructure, and UX
+
+---
+
+## 🛠 Tech Focus
+
+| Domain | Technologies |
 |---|---|
-| Frontend | Next.js 14, React, Tailwind CSS, TypeScript |
-| Backend | Node.js, Express, Next.js API Routes |
+| Frontend | Next.js, React, Tailwind CSS, TypeScript |
+| Backend | Node.js, Express, API Design |
 | Database | PostgreSQL, Prisma ORM, Supabase |
-| Auth | NextAuth.js v5 |
-| DevOps | Railway, Vercel, WSL2 (Ubuntu 24.04) |
-| Embedded | Arduino, HC-05, L298N, HC-SR04, SG90 |
+| Authentication | NextAuth.js v5 |
+| Deployment | Railway, Vercel |
+| Systems | Linux, WSL2, Git/GitHub |
+| Embedded | Arduino, HC-05, L298N, HC-SR04 |
 
 ---
 
-### 📊 GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-kumargaurav&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-kumargaurav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=k-kumargaurav&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kumargaurav&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+  />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://linkedin.com/in/k-kumargaurav">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://spliteasy.info">
-    <img src="https://img.shields.io/badge/SplitEasy-Live-28a745?logo=vercel&logoColor=white" />
-  </a>
+
+  <img src="https://img.shields.io/badge/SplitEasy-Live-00C896?style=flat&logo=vercel&logoColor=white"/>
 </p>

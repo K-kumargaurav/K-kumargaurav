@@ -37,7 +37,7 @@ Production-grade bill splitting platform built for the Indian market with UPI-na
 
 ## 🧠 About
 
-- B.Tech CSE student at **GEC Ramgarh**
+- B.Tech CSE student at **REC Ramgarh**
 - Building full-stack production-grade applications
 - Interested in scalable systems, startups, and deeptech
 - Robotics hobbyist working with Arduino + BLE systems
@@ -80,5 +80,6 @@ Production-grade bill splitting platform built for the Indian market with UPI-na
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
+  <a href="https://spliteasy.info">
   <img src="https://img.shields.io/badge/SplitEasy-Live-00C896?style=flat&logo=vercel&logoColor=white"/>
 </p>
